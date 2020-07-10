@@ -12,8 +12,8 @@ Two plots were made. One to analyze how UnB fares country-wise (03_grafico_nacio
 
 Below are the two plots discussed.
 
-![THE Latin America evolution - federal](the-latam-federal-conjunto-1.png)
+![THE Latin America evolution - federal](the-latam-federal-conjunto_1.png)
 
 <br>
 
-![THE Latin America evolution - national](the-latam-br-conjunto-1.png)
+![THE Latin America evolution - national](the-latam-br-conjunto_1.png)
