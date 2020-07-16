@@ -107,7 +107,7 @@ graf_ind_fed <- dados_graf_ind %>%
                      limits = c(17, 20.2)) +
   scale_color_identity() +
   labs(title = "Evolução dos indicadores das Universidades Federais no Ranking THE Latin America",
-       subtitle = "A <span style='color:#0F4C81'>Universidade de Brasília</span> é a segunda melhor em internacionalização e melhorou em quatro dos cinco<br>indicadores, em especial em renda com indústria e citações, que correspondem a 22,5% da nota",
+       subtitle = "A <span style='color:#0F4C81'>Universidade de Brasília</span> é a segunda melhor em internacionalização e melhorou em quatro dos cinco<br>indicadores, que conjuntamente correspondem a 66% da nota",
        x = "Ano de divulgação do ranking",
        y = "Nota no indicador") +
   # modificações no tema

@@ -103,7 +103,7 @@ graf_ind_br <- dados_graf_ind %>%
                      limits = c(17, 20.2)) +
   scale_color_identity() +
   labs(title = "Evolução dos indicadores das Universidades Brasileiras no Ranking THE Latin America",
-       subtitle = "No cenário nacional, a <span style='color:#0F4C81'>Universidade de Brasília</span> está entre as oito melhores universidades em citações, ensino e<br>internacionalização, indicadores que, conjuntamente, correspondem a 63,5% da nota",
+       subtitle = "No cenário nacional, a <span style='color:#0F4C81'>Universidade de Brasília</span> está entre as nove melhores universidades em citações, ensino e<br>internacionalização, indicadores que, conjuntamente, correspondem a 63,5% da nota",
        x = "Ano de divulgação do ranking",
        y = "Nota no indicador") +
   # modificações no tema
